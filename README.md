@@ -1,4 +1,4 @@
-# Steam Data Explorer – What Makes a Popular Game?
+# Steam Data Explorer: What Makes a Popular Game?
 
 This R project dives into a dataset (from Kaggle) of Steam games to investigate the key factors that contribute to a game's popularity and rating. Using tidyverse tools, the project performs data cleaning, transformation, and visualization to get useful insights.
 
