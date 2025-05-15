@@ -60,7 +60,8 @@ This R project dives into a dataset (from Kaggle) of Steam games to investigate 
 
 1. Clone the repo
 2. Open the R project in RStudio
-3. Run the main analysis script ('steamAnalysisCode.R')
+3. Download the .csv file from this [link](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset?resource=download) (make sure it is named `steam_games.csv`)
+4. Run the main analysis script ('steamAnalysisCode.R')
 
 ---
 
